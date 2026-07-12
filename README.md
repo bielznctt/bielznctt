@@ -13,7 +13,7 @@
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-bielznctt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bielznctt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-@seuuser-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bielzn_ig)
+[![Instagram](https://img.shields.io/badge/Instagram-@bielzn_ig-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bielzn_ig)
 [![Email](https://img.shields.io/badge/Email-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 </div>
